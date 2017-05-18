@@ -1,17 +1,17 @@
 {
 	"demo": [
 		{
-			"name": "To-Do List",
-			"tag": [],
-			"id": "todo"
-		},
-		{
 			"name": "Artist Portfolio",
 			"tag": [
 				"Github",
 				"UPLOADS"
 			],
 			"id": "portfolio"
+		},
+		{
+			"name": "To-Do List",
+			"tag": [],
+			"id": "todo"
 		},
 		{
 			"name": "Editable homepage",
